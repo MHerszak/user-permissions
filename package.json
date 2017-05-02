@@ -1,0 +1,22 @@
+{
+  "name": "user-permissions",
+  "version": "1.0.0",
+  "description": "Basis for permissions package",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHerszak/user-permissions.git"
+  },
+  "keywords": [
+    "permissions"
+  ],
+  "author": "Michel Herszak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MHerszak/user-permissions/issues"
+  },
+  "homepage": "https://github.com/MHerszak/user-permissions#readme"
+}
