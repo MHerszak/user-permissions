@@ -1,6 +1,6 @@
 {
   "name": "user-permissions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basis for permissions package",
   "main": "lib/index.js",
   "scripts": {
